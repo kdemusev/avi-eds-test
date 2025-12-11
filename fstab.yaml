@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p135407-e1339013.adobeaemcloud.com/bin/kdemusev/avi-eds-test/main"
+    url: "https://author-p135407-e1339013.adobeaemcloud.com/bin/franklin.delivery/kdemusev/avi-eds-test/main"
     type: "markup"
     suffix: ".html"
